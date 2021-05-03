@@ -1,8 +1,7 @@
-/*
-				Name: Mehul Chaturvedi
-				IIT-Guwahati
-*/
 
+*/
+          Name -Kumar Ojas
+	  IIIT VADODARA
 /*
 				PROBLEM STATEMENT
 You are given a string ss consisting of exactly nn characters, and each character is either '0', '1' or '2'. Such strings are called ternary strings.
